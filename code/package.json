@@ -1,0 +1,22 @@
+{
+  "name": "my-letv-fe",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-imagemin": "0.7.2",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-contrib-uglify": "0.4.0",
+    "grunt-contrib-htmlmin": "*"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "express-less": "*",
+    "grunt-htmlmin": "^0.1.4",
+    "svn-interface": "*"
+  }
+}
